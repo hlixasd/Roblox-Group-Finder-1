@@ -1,5 +1,14 @@
 # Roblox Group Finder (Proxyless)
 
+# How to setup?
+- Extract the group finder.
+- Edit main.py, and find my_secret = "". Put your webhook there.
+- Save main.py.
+- Open the finder, and open cmd.
+- In cmd, type pip install -r requirements.txt
+- Type py main.py
+- Your finder is running!
+
 # How to setup on Replit?
 - Fork this [repl](https://replit.com/@Zkoo/Roblox-Group-Finder-Proxyless?v=1).
 - Create a webhook on your Discord Server.
@@ -19,3 +28,5 @@
 
 # Any problems?
 - Dm Zkoo#1111
+
+# KEEP MIND YOU WILL GET RATELIMITED!! THIS FINDER IS PROXYLESS!
