@@ -5,7 +5,7 @@ import random
 from discord_webhook import DiscordWebhook, DiscordEmbed
 import keep_alive
 import threading
-my_secret = os.environ["webhook"]
+my_secret = "" # Webhook here
 min_id = 5000000
 max_id = 15000000
 webhook = DiscordWebhook(url=my_secret)
