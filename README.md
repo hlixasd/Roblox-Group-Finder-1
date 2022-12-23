@@ -1,13 +1,14 @@
 # Roblox Group Finder (Proxyless)
 
-# How to setup?
+# How to setup on Replit?
+- Fork this [repl](https://replit.com/@Zkoo/Roblox-Group-Finder-Proxyless?v=1).
 - Create a webhook on your Discord Server.
 - Copy the url of your webhook.
 - Click on Secrets. [Click here](https://imgur.com/a/8gsFOWJ) if you dont know how.
 - Add a new secret named "webhook". Make sure the value is your webhook.
 - Click run!
 
-# How to make it 24/7?
+# How to make it 24/7 on Replit?
 - First of all, create an account on [UptimeRobot](https://uptimerobot.com/).
 - Click "Add New Monitor"
 - Select Monitor Type to HTTP(s)
