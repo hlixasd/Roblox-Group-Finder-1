@@ -27,7 +27,7 @@ def main():
       if owner == None:
 
         try:
-          urlList = [f"https://apigw.roblox.qq.com/groups/v1/groups/{id}",f"https://groups.roblox.com/v1/groups/{id}"]
+          urlList = [f"https://groups.roblox.com/v1/groups/{id}"]
     
           t = random.choice(urlList)
           checkOwner = requests.get(t)
