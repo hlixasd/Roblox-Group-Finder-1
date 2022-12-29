@@ -26,7 +26,4 @@
 - Select your e-mail to notify.
 - Click Create Monitor.
 
-# Any problems?
-- Dm Zkoo#1111
-
 # KEEP MIND YOU WILL GET RATELIMITED!! THIS FINDER IS PROXYLESS!
