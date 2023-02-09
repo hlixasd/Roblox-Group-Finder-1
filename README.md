@@ -25,5 +25,3 @@
 - Make the URL your URL from your group finder.
 - Select your e-mail to notify.
 - Click Create Monitor.
-
-# KEEP MIND YOU WILL GET RATELIMITED!! THIS FINDER IS PROXYLESS!
